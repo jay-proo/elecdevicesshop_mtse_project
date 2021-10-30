@@ -1,0 +1,38 @@
+Nguyen Minh Dao12:44 PM
+MEAN MERN
+AngularJS | ReactJS cho fullstack
+Backend
+Data MongoDB
+NodeJS và ExpressJS
+Module
+
+Nguyen Minh Dao12:45 PM
+AngularJS - ReactJS
+Pattern
+Singleton
+Abstract Factory
+Factory 
+Dependency Injection Pattern
+MVC Pattern
+
+Nguyen Minh Dao12:47 PM
+Design Patern học rồi
+AngularJS MVC
+Lập nhóm
+google sheet các bạn nhập danh sách nhóm
+
+Nguyen Minh Dao12:48 PM
+MEAN - MERN các nhom chọn
+Thầy sẽ gửi các em đề tài mẫu đề các nhóm xem làm
+10-14
+Chia ra thời gian trong 4 tuần báo cáo từng phần của nhóm
+
+Nguyen Minh Dao12:49 PM
+10 - MongDB - Business logic code (function)
+10-11 gửi báo cáo nhóm , và sẽ chon cho báo cáo trong buổi học
+Thầy góp ý và các nhóm khác
+14 và 15 là vấn đáp
+
+Nguyen Minh Dao12:50 PM
+bên Thầy có Thầy - Anh Thắng và Anh Duy
+3 nhóm trên 3 link google meet đề vấn đáp
